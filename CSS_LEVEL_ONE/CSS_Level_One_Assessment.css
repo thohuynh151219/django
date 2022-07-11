@@ -1,0 +1,39 @@
+body{
+    background-color: #b0e0e6;
+}
+
+h1{
+    border: 1px solid black;
+}
+
+div p{
+    background-color: #fffca5;
+}
+
+h2{
+    color: purple;
+}
+
+#itemone{
+    text-decoration: overline;
+    color: purple;
+}
+
+li a[href="http://www.google.com"]{
+    color: red;
+}
+
+#textblock{
+    border: 5px solid gray;
+    width: 800px;
+    height: 400px;
+}
+
+.loginForm input{
+    border: 2px solid purple;
+}
+
+.exit{
+    border: 4px dashed #fffca5;
+    background-color: blue;
+}
